@@ -1,10 +1,10 @@
 import './App.css'
-import {Routes, Route} from '../node_modules/react-router-dom'
+import {Routes, Route} from 'react-router-dom'
 import {Home} from './pages/Home'
 import {About} from './pages/About'
 import {Ods} from './pages/Ods'
 import bandeira from './img/bandeira-onu.webp'
-import {Link} from '../node_modules/react-router-dom'
+import {Link} from 'react-router-dom'
 
 
 function App() {
